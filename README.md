@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ershadul Haque!
 
 Welcome to my GitHub profile! 🚀  
-I am a dedicated **Data Scientist** and **PhD candidate** with expertise in **Quantum Image Computing**, **AI Applications**, and **Big Data Analytics**. With a strong background in research and teaching, I am passionate about solving complex data problems through innovative solutions.
+I am a dedicated **Data Scientist** and **PhD Student** with expertise in **Quantum Image Computing**, **AI Applications**, and **Big Data Analytics**. With a strong background in research and teaching, I am passionate about solving complex data problems through innovative solutions.
 
 ---
 
